@@ -1,6 +1,7 @@
 # ccs-project
 
 [ССЫЛКА для просмотра страницы](https://zarinamambetova.github.io/subandboard/dist/index.html)
+Учебный проект, без адаптива
 
 # Технологии
 * Gulp, 
