@@ -1,0 +1,11 @@
+//colors
+$white: #fff;
+$blue: #558BB1;
+$black: #000;
+$light-gray: #F3F6FC;
+
+// @media (max-width: 758px) { .... } - пример медиа-запроса при адаптиве
+
+// setups
+@import "css/*.scss";
+

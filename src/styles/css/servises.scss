@@ -1,0 +1,54 @@
+.services {
+  padding-top: 105px;
+}
+.services__container {
+  height: 636px;
+  background: $blue;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+  position: relative;
+}
+
+.services__item::before {
+content: "";
+width: 4px;
+height: 4px;
+display: inline-block;
+border-radius: 50%;
+background-color: $white;
+margin-right: 10px;
+}
+
+.services__item {
+  color: $white;
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.services__content {
+  padding: 75px 75px 0 0;
+  position: relative;
+}
+.services__content:after {
+  content: "";
+  display: inline-block;
+  background: url(./images/pic/services/001.jpg) center center no-repeat;
+  width: 366px;
+  height: 592px;
+  position: absolute;
+  top: 100%;
+  left: -50px;
+  margin-top: 120px;
+}
+
+.serviсes__img {
+  position: absolute;
+  left: -56px;
+  top: 50%;
+  transform: translateY(-50%);
+}
