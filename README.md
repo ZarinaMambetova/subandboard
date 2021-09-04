@@ -1,6 +1,6 @@
 # ccs-project
 
-[ССЫЛКА для просмотра страницы](https://zarinamambetova.github.io/subandboard/index.html)
+[ССЫЛКА для просмотра страницы](https://zarinamambetova.github.io/subandboard/dist/index.html)
 
 # Технологии
 * Gulp, 
